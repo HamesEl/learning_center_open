@@ -15,7 +15,7 @@ export class AppComponent {
   title = 'learning-center';
   options = [
     { path: '/home', title: 'Home'},
-//    { path: '/learning/courses', title: 'Courses'},
+  { path: '/learning/courses', title: 'Courses'},
     {path:'/contact', title: 'Contact'},
     {path:'/about', title: 'About'}
   ]
