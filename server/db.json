@@ -5,11 +5,14 @@
   "courses": [
     {
       "id": 1,
-      "title": "Sample",
+      "title": "Open Source",
       "description": "Sample Course"
+    },
+    {
+      "id": 2,
+      "title": "Web Applications",
+      "description": "Desc"
     }
   ],
-  "enrollments": [],
-  "progress-record-items": [],
-  "learning-path-items": []
+  "enrollments": []
 }
